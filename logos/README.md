@@ -9,3 +9,9 @@ and/or [website](), and use the official logo (below dark, dimmed and light vers
 ![Polars official logo (dimmed)](https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dimmed.svg)
 
 ![Polars official logo (light)](https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-light.svg)
+
+### Palette
+
+* Light: `#ffffff`
+* Dark: `#24292e`
+* Dimmed: `#adbac7`
