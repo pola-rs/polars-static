@@ -12,6 +12,6 @@ and/or [website](), and use the official logo (below dark, dimmed and light vers
 
 ### Palette
 
-* Light: `#ffffff`
 * Dark: `#24292e`
 * Dimmed: `#adbac7`
+* Light: `#ffffff`
