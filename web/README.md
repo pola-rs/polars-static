@@ -8,7 +8,7 @@
 
 * `Arrow`: `#363a3f`
 * Background squiggles and game objects:
-    - Contour: `#70b0ff` (opacity to 13% for `ice-ice-baby.svg`, used as landing page background)
+    - Contour: `#70b0ff` (opacity to 20% for `ice-ice-baby.svg`, used as landing page background)
     - Fill: `#22272e` (dimmed) or `#ffffff` (light)
 * `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
 * `Rust`: `#000000` (`#cd792c` for the orange)
