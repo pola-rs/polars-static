@@ -4,11 +4,19 @@ Projects and documents that want to include and/or contribute to `Polars` should
 the GitHub [organization](https://github.com/pola-rs), the official [documentation]()
 and/or [website](), and use the official logo (below dark, dimmed and light versions):
 
-![Polars official logo (dark)](https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg)
+![Polars official logo (dark)](/logos/polars-logo-dark.svg)
 
-![Polars official logo (dimmed)](https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dimmed.svg)
+![Polars official logo (dimmed)](/logos/polars-logo-dimmed.svg)
 
-![Polars official logo (light)](https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-light.svg)
+![Polars official logo (light)](/logos/polars-logo-light.svg)
+
+Those logos also exist in their respective contoured versions:
+
+![Polars official contoured logo (dark)](/logos/polars-logo-dark-contour.svg)
+
+![Polars official contoured logo (dimmed)](/logos/polars-logo-dimmed-contour.svg)
+
+![Polars official contoured logo (light)](/logos/polars-logo-light-contour.svg)
 
 ### Palette
 
