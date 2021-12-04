@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="500.02551"
-     inkscape:cy="253.54829"
+     inkscape:cy="576.7971"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -58,20 +58,20 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g970"
+       id="g1354"
        inkscape:export-filename="splash.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.582651;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.671178;stroke-linecap:round;stroke-linejoin:round"
          id="rect10096"
-         width="317.5"
-         height="166.15834"
+         width="264.58334"
+         height="264.58334"
          x="-3.7011716e-08"
          y="-3.6929322e-08" />
       <g
          id="g16422"
-         transform="matrix(1.256,0,0,1.256,9.2074961,-2.3362874)">
+         transform="matrix(1.1374301,0,0,1.1374301,-3.1336031,54.939671)">
         <rect
            style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24292e;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect1700-7-62"
