@@ -21,11 +21,11 @@ Those stickers also exist without text:
 
 Extra colour palettes:
 
-![Polars sticker (python)](/stickers/round-python-text.png)
-![Polars sticker (LGBTQ+)](/stickers/round-lgbtq+-text.png)
+![Polars sticker (Python, dark)](/stickers/round-dark-python-text.png)
+![Polars sticker (LGBTQ+, dark)](/stickers/round-dark-lgbtq+-text.png)
 
-![Polars sticker (no text; python)](/stickers/round-python.png)
-![Polars sticker (no text; LBGTQ+)](/stickers/round-lgbtq+.png)
+![Polars sticker (no text; Python, dark)](/stickers/round-dark-python.png)
+![Polars sticker (no text; LBGTQ+, dark)](/stickers/round-dark-lgbtq+.png)
 
 ### Palette
 
