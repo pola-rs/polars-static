@@ -19,6 +19,14 @@ Those stickers also exist without text:
 ![Polars sticker (no text; light)](/stickers/round-light.png)
 ![Polars sticker (no text; transparent)](/stickers/round-transparent.png)
 
+Extra colour palettes:
+
+![Polars sticker (python)](/stickers/round-python-text.png)
+![Polars sticker (LGBTQ+)](/stickers/round-lgbtq+-text.png)
+
+![Polars sticker (no text; python)](/stickers/round-python.png)
+![Polars sticker (no text; LBGTQ+)](/stickers/round-lgbtq+.png)
+
 ### Palette
 
 * Dark: `#24292e`
@@ -26,3 +34,4 @@ Those stickers also exist without text:
 * Light: `#ffffff`
 * `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
 * `Rust`: `#cd792c` (orange)
+* LGBTQ+ flag: Wikipedia ([source](https://commons.wikimedia.org/wiki/File:LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg))
