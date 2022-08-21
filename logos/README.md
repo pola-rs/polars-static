@@ -1,8 +1,9 @@
 ### Please keep the use of the `Polars` name and logo fair!
 
 Projects and documents that want to include and/or contribute to `Polars` should link to
-the GitHub [organization](https://github.com/pola-rs), the official [documentation]()
-and/or [website](), and use the official logo (below dark, dimmed and light versions):
+the GitHub [organization](https://github.com/pola-rs) and/or [website](https://pola.rs),
+and use the official
+[logo](https://github.com/carnarez/polars-static/tree/master/logos).
 
 ![Polars official logo (dark)](/logos/polars-logo-dark.svg)
 
