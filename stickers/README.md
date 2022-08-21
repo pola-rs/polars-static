@@ -9,24 +9,20 @@ The stickers below are in the RGB space, use another program (`Illustrator`, `Sc
 _etc._) to transform to CYMK before printing. See the respective SVG files for more
 variants.
 
-![Polars sticker (dark)](/stickers/round-dark-text.svg)
-
-![Polars sticker (dimmed)](/stickers/round-dimmed-text.svg)
-
-![Polars sticker (light)](/stickers/round-light-text.svg)
+![Polars sticker (dark)](/stickers/round-dark-text.png)
+![Polars sticker (light)](/stickers/round-light-text.png)
+![Polars sticker (transparent)](/stickers/round-transparent-text.png)
 
 Those stickers also exist without text:
 
-![Polars sticker (no text; dark)](/stickers/round-dark.svg)
-
-![Polars sticker (no text; dimmed)](/stickers/round-dimmed.svg)
-
-![Polars sticker (no text; light)](/stickers/round-light.svg)
+![Polars sticker (no text; dark)](/stickers/round-dark.png)
+![Polars sticker (no text; light)](/stickers/round-light.png)
+![Polars sticker (no text; transparent)](/stickers/round-transparent.png)
 
 ### Palette
 
 * Dark: `#24292e`
-* Dimmed: `#adbac7`
+* transparent: `#adbac7`
 * Light: `#ffffff`
 * `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
 * `Rust`: `#cd792c` (orange)
