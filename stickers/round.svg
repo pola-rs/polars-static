@@ -16,7 +16,12 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs1760" />
+     id="defs1760">
+    <color-profile
+       name="sRGB-IEC61966-2.1"
+       xlink:href="file:///C:/Windows/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
+       id="color-profile52849" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +30,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="11750.094"
+     inkscape:cx="10109.607"
      inkscape:cy="1474.8227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -47,8 +52,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4762"
-       originx="7.9547787e-07"
-       originy="446.8441" />
+       originx="1.1932169e-06"
+       originy="446.84412" />
   </sodipodi:namedview>
   <metadata
      id="metadata1763">
