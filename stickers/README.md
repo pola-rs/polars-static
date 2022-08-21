@@ -31,4 +31,3 @@ Extra colour palettes (sample):
 * Light: `#ffffff`
 * `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
 * `Rust`: `#cd792c` (orange)
-* LGBTQ+ flag: Wikipedia ([source](https://commons.wikimedia.org/wiki/File:LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg))
