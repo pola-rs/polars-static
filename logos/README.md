@@ -3,7 +3,7 @@
 Projects and documents that want to include and/or contribute to `Polars` should link to
 the GitHub [organization](https://github.com/pola-rs) and/or [website](https://pola.rs),
 and use the official
-[logo](https://github.com/carnarez/polars-static/tree/master/logos).
+[logo](https://github.com/pola-rs/polars-static/tree/master/logos).
 
 ![Polars official logo (dark)](/logos/polars-logo-dark.svg)
 

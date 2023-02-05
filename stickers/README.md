@@ -27,7 +27,7 @@ Extra colour palettes (sample):
 ### Palette
 
 * Dark: `#24292e`
-* transparent: `#adbac7`
+* Dimmed: `#adbac7`
 * Light: `#ffffff`
 * `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
 * `Rust`: `#cd792c` (orange)
