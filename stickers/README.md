@@ -1,33 +1,15 @@
-### Please keep the use of the `Polars` name and logo fair!
+## Please keep the use of the `Polars` name and logo fair!
 
-Projects and documents that want to include and/or contribute to `Polars` should link to
-the GitHub [organization](https://github.com/pola-rs) and/or [website](https://pola.rs),
-and use the official
-[logo](https://github.com/carnarez/polars-static/tree/master/logos).
+Projects and documents that want to include and/or contribute to `Polars` should link to the GitHub [organization](https://github.com/pola-rs) and/or [website](https://pola.rs), and use the official [logo](https://github.com/pola-rs/polars-static/tree/master/logos).
 
-The stickers below are in the RGB space, use another program (`Illustrator`, `Scribus`,
-_etc._) to transform to CYMK before printing. See the respective SVG files for more
-variants.
+### Sticker design
 
-![Polars sticker (dark)](/stickers/round-dark-text.png)
-![Polars sticker (light)](/stickers/round-light-text.png)
-![Polars sticker (transparent)](/stickers/round-transparent-text.png)
+![Polars sticker](/stickers/polars_sticker_2024.svg)
 
-Those stickers also exist without text:
+filename: `polars_sticker_2024.svg`
 
-![Polars sticker (no text; dark)](/stickers/round-dark.png)
-![Polars sticker (no text; light)](/stickers/round-light.png)
-![Polars sticker (no text; transparent)](/stickers/round-transparent.png)
+### Offical sticker details
 
-Extra colour palettes (sample):
+The official Polars stickers are die cut stickers and have a dimension of 50mm (w) x 27mm (h). 
 
-![Polars sticker (Python, dark)](/stickers/round-dark-python-text.png)
-![Polars sticker (no text; Python, dark)](/stickers/round-dark-python.png)
-
-### Palette
-
-* Dark: `#24292e`
-* Dimmed: `#adbac7`
-* Light: `#ffffff`
-* `Python`: `#366f9e` (blue) & `#ffcb3b` (yellow)
-* `Rust`: `#cd792c` (orange)
+> Reach out to the Polars team at [info@polars.tech](mailto:info@polars.tech) if you want to order from the same print service.
