@@ -27,9 +27,9 @@ and use the official [logo](https://github.com/pola-rs/polars-static/tree/master
 [PNG](/logos/polars_logo_white_text.png)
 
 
-## Polars Cloud
+## Polars Nanook
 
-![Polars official logo (white with text)](/logos/polars_cloud_logo_blue.svg)
+![Polars Nanook official logo (purple with text)](/logos/polars_nanook_logo_purple.svg)
 
-[SVG](/logos/polars_cloud_logo_blue.svg) |
-[PNG](/logos/polars_cloud_logo_blue.png)
+[SVG](/logos/polars_nanook_logo_purple.svg) |
+[PNG](/logos/polars_nanook_logo_purple.png)
